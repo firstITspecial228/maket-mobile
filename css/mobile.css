@@ -30,6 +30,7 @@ header .header-logo::before {
     text-align: center;
     letter-spacing: 0.2px;
     max-width: 128px;
+    min-width: 90px;
     height: 40px;
     border-radius: 8px;
 }
