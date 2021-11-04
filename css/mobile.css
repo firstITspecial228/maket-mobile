@@ -34,3 +34,6 @@ header .header-logo::before {
     height: 40px;
     border-radius: 8px;
 }
+.muslim {
+    font-size: 30px;
+}
