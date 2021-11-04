@@ -20,7 +20,7 @@ header .header-logo {
     color: #5C5C5C;
 }
 header .header-logo::before {
-    background: url("img/mobile-header-icon-menu.svg") no-repeat center;
+    background: url(img/mobile-header-icon-menu.svg) no-repeat center;
     bottom: 3px;
     left: -39px;
 }
